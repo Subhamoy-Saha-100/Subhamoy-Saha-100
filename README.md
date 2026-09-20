@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Subhamoy Saha</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=subhamoy-saha-100&label=Profile%20views&color=0e75b6&style=flat" alt="subhamoy-saha-100" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Subhamoy-Saha-100&label=Profile%20views&color=0e75b6&style=flat" alt="subhamoy-saha-100" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subhamoy-saha-100" alt="subhamoy-saha-100" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Subhamoy-Saha-100" alt="subhamoy-saha-100" /></a> </p>
 
 - 🔭 I’m currently working on [trade-assist-app](https://github.com/Subhratanu-Saha/trade-assist-api)
 
